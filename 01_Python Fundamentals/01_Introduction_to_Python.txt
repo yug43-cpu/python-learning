@@ -1,0 +1,34 @@
+INTRODUCTION TO PYTHON
+
+Definition:
+
+Python is a high-level, interpreted and general-purpose programming
+language. It has simple and readable syntax.
+
+Uses:
+
+• Web Development
+• Automation
+• APIs
+• Data Science
+• AI/ML
+• Networking
+• Scripting
+
+Example:
+
+    print("Hello, Python!")
+
+Output:
+
+    Hello, Python!
+
+In simple words:
+
+Python is an easy-to-learn programming language used to create
+programs, automate tasks and build applications.
+
+Exam Answer:
+
+Python is a high-level, interpreted and general-purpose programming
+language known for its simple and readable syntax.

@@ -1,0 +1,52 @@
+PYTHON PROGRAM STRUCTURE
+
+Definition:
+
+Python Program Structure means the basic way in which Python code
+is written and organized.
+
+
+Basic Structure:
+
+    # Comment
+
+    print("Hello, Python!")
+
+
+Main Parts:
+
+    1. Comments
+       Used to explain the code.
+
+    2. Statements
+       Instructions that Python executes.
+
+    3. Functions
+       Used to perform a specific task.
+
+    4. Indentation
+       Used to define blocks of code.
+
+
+Example:
+
+    # Display a message
+    print("Hello, Python!")
+
+Output:
+
+    Hello, Python!
+
+
+Key Points:
+
+    • Python programs are written using statements.
+    • Indentation is important in Python.
+    • Comments are used to explain code.
+    • Python does not require a main() function for a basic program.
+
+
+In simple words:
+
+Python Program Structure means how Python code is arranged and
+written so that the Python Interpreter can execute it.

@@ -1,0 +1,39 @@
+INDENTATION
+
+Definition:
+
+Indentation means adding spaces at the beginning of a line of code.
+In Python, indentation is used to define a block of code.
+
+
+Example:
+
+    if 10 > 5:
+        print("10 is greater")
+
+Output:
+
+    10 is greater
+
+
+Here:
+
+    if 10 > 5:
+        → Starts a block.
+
+    print("10 is greater")
+        → Indented line belongs to the if block.
+
+
+Key Points:
+
+    • Indentation is compulsory in Python.
+    • It usually uses 4 spaces.
+    • It replaces curly braces {} used in languages like C++.
+    • Wrong indentation can cause an IndentationError.
+
+
+In simple words:
+
+Indentation tells Python which statements belong to a particular
+block of code.

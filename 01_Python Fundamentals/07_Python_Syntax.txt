@@ -1,0 +1,42 @@
+PYTHON SYNTAX
+
+Definition:
+
+Python Syntax means the rules used to write Python code correctly.
+It tells us how Python statements and code should be written.
+
+
+Basic Syntax:
+
+    print("Hello, Python!")
+
+
+Example:
+
+    name = "Yug"
+    print(name)
+
+Output:
+
+    Yug
+
+
+Key Points:
+
+    • Python uses indentation to define blocks of code.
+    • Python statements are usually written line by line.
+    • Parentheses () are used with functions.
+    • Python is case-sensitive.
+    • Incorrect syntax causes a SyntaxError.
+
+
+In simple words:
+
+Python Syntax is the correct way of writing Python code so that
+the Python Interpreter can understand and execute it.
+
+
+Exam Answer:
+
+Python Syntax is a set of rules used to write Python programs
+correctly and make them understandable to the Python Interpreter.
