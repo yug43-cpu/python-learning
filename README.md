@@ -2,9 +2,7 @@
 
 > My complete Python learning journey — from fundamentals to advanced Python, DSA, problem solving, automation, APIs and projects.
 
-**BHAI BHAI BHAI:**
-
-
+**PROGRESS:**
 ✅ Completed
 🔄 Currently Learning
 ⬜ Not Started
