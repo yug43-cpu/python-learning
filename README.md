@@ -11,16 +11,16 @@
 
 # 📌 01. Python Fundamentals
 
-* ⬜ Introduction to Python
-* ⬜ Python History & Features
-* ⬜ Python Applications
-* ⬜ Python Interpreter
-* ⬜ Python Installation
-* ⬜ Python Program Structure
-* ⬜ Python Syntax
-* ⬜ Indentation
-* ⬜ Comments
-* ⬜ `print()`
+* ✅ Introduction to Python
+* ✅ Python History & Features
+* ✅ Python Applications
+* ✅ Python Interpreter
+* ✅ Python Installation
+* ✅ Python Program Structure
+* ✅ Python Syntax
+* ✅ Indentation
+* ✅ Comments
+* ✅ `print()`
 
 ---
 
