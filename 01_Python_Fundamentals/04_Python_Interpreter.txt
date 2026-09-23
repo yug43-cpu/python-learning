@@ -1,0 +1,45 @@
+PYTHON INTERPRETER
+
+Definition:
+
+Python Interpreter is a program that reads and executes Python code.
+It runs the Python program and gives the output.
+
+
+How Python Interpreter Works:
+
+    Python Code
+         ↓
+    Python Interpreter
+         ↓
+      Output
+
+
+Example:
+
+    print("Hello, Python!")
+
+Output:
+
+    Hello, Python!
+
+
+Key Points:
+
+    • Interpreter executes Python code.
+    • It detects errors while running the program.
+    • It allows us to run Python programs.
+    • Python is called an interpreted language because its code
+      is executed by an interpreter.
+
+
+In simple words:
+
+Python Interpreter is the program that understands and runs
+our Python code.
+
+
+Exam Answer:
+
+Python Interpreter is a program that reads, interprets and executes
+Python code to produce the required output.

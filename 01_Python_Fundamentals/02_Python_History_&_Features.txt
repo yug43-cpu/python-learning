@@ -1,0 +1,24 @@
+PYTHON HISTORY & FEATURES
+
+History:
+
+Python was created by Guido van Rossum.
+It was first released in 1991.
+
+
+Features:
+
+• Easy to learn and use
+• Simple and readable syntax
+• High-level language
+• Interpreted language
+• Dynamically typed
+• Object-oriented
+• Open source
+• Portable
+
+
+In simple words:
+
+Python was created by Guido van Rossum and released in 1991.
+It is popular because it is simple, readable and powerful.

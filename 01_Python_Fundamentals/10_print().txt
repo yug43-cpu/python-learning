@@ -1,0 +1,53 @@
+PRINT()
+
+Definition:
+
+print() is a built-in Python function used to display output on
+the screen.
+
+
+Syntax:
+
+    print(value)
+
+
+Example:
+
+    print("Hello, Python!")
+    print(10)
+
+
+Output:
+
+    Hello, Python!
+    10
+
+
+Printing Multiple Values:
+
+    name = "Yug"
+    age = 20
+
+    print(name, age)
+
+Output:
+
+    Yug 20
+
+
+Key Points:
+
+    • print() is used to display output.
+    • It can print text, numbers and variables.
+    • Multiple values can be printed using commas.
+
+
+In simple words:
+
+print() is used to show information or results on the screen.
+
+
+Exam Answer:
+
+print() is a built-in Python function used to display output on
+the screen.

@@ -1,0 +1,24 @@
+PYTHON APPLICATIONS
+
+Python is used in many areas:
+
+• Web Development
+• Automation
+• Data Science
+• Artificial Intelligence (AI)
+• Machine Learning (ML)
+• Game Development
+• Networking
+• Cybersecurity
+• API Development
+• Scripting
+
+In simple words:
+
+Python can be used to build websites, automate tasks, work with
+data, create AI/ML applications, develop APIs and write scripts.
+
+Exam Answer:
+
+Python is widely used in web development, automation, data science,
+AI/ML, networking, cybersecurity, API development and scripting.

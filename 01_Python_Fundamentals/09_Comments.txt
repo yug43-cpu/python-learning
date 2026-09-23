@@ -1,0 +1,45 @@
+COMMENTS
+
+Definition:
+
+Comments are notes written in a Python program to explain the code.
+Python ignores comments while executing the program.
+
+
+Types of Comments:
+
+1. Single-Line Comment
+
+    # This is a comment
+    print("Hello")
+
+2. Multi-Line Comment
+
+    """
+    This is a
+    multi-line comment
+    """
+
+
+Example:
+
+    # Display a message
+    print("Hello, Python!")
+
+Output:
+
+    Hello, Python!
+
+
+Key Points:
+
+    • Comments make code easier to understand.
+    • Comments are not executed by Python.
+    • Single-line comments start with #.
+    • Triple quotes can be used for multi-line text.
+
+
+In simple words:
+
+Comments are messages for programmers that explain what the code
+does. Python does not execute them.

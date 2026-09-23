@@ -1,0 +1,40 @@
+PYTHON INSTALLATION
+
+Definition:
+
+Python Installation means installing Python on a computer so that
+we can write and run Python programs.
+
+
+Steps:
+
+1. Download Python from the official Python website.
+2. Run the Python installer.
+3. Select "Add Python to PATH".
+4. Click "Install Now".
+5. Wait for the installation to complete.
+
+
+Check Installation:
+
+Open Command Prompt and type:
+
+    python --version
+
+Example Output:
+
+    Python 3.x.x
+
+
+Key Points:
+
+    • Python must be installed before running Python programs.
+    • "Add Python to PATH" allows Python commands to work from
+      Command Prompt or Terminal.
+    • Use "python --version" to check the installed version.
+
+
+In simple words:
+
+Python Installation means setting up Python on our computer so
+we can create and run Python programs.
