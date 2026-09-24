@@ -24,7 +24,7 @@
 
 ---
 
-# 📌 02. Variables & Data Types
+# 📌 02. Variables & Data Types🔄
 
 * ⬜ Variables
 * ⬜ Constants
